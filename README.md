@@ -11,6 +11,7 @@
 
 - **Применение техник тест-дизайна.xlsx** – _задача из курсов на применение различных техник тест-дизайна_
 - https://docs.google.com/spreadsheets/d/1ItlU7QzcWxLrxjCxPnLGwMThpb45VH2U9hf3wa85QGw/edit#gid=0 – _тестовое задание, пример написания тест-кейсов и плана тестирования_
+- https://docs.google.com/spreadsheets/d/1JKutqlCHq2UdjjFPiKDdQl4qwCL-ROGvTHUAOo7XEwY/edit#gid=1573864915 (дублирую файл чек-листы, тест-кейсы и баг-репорты, чтобы можно было просмотреть онлайн)
 
 
 СУБД:
